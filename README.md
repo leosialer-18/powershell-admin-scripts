@@ -16,8 +16,6 @@ powershell-admin-scripts/
 │   ├── system-info.ps1
 │   ├── ...
 │
-├── assets/
-│
 ├── README.md
 └── .gitignore
 ```
