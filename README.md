@@ -11,6 +11,8 @@ This repository documents my progress as an ASIR (Systems Administration) studen
 powershell-admin-scripts/
 │
 ├── scripts/
+│   ├── event-log-report.ps1
+│   ├── service-status-report.ps1
 │   ├── system-info.ps1
 │   ├── ...
 │
